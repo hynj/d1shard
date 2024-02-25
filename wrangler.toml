@@ -1,0 +1,35 @@
+[[d1_databases]]
+binding = "ShardUsers" # i.e. available in your Worker on env.DB
+database_name = "testshardusers"
+database_id = "63eb5448-1f47-4a17-b736-2b2731135e6d"
+preview_database_id = "ShardUsers"
+
+[[d1_databases]]
+binding = "ShardOne" # i.e. available in your Worker on env.DB
+database_name = "testshardone"
+database_id = "511c57d0-c75c-40c2-8fed-7a7920d29fc9"
+preview_database_id = "ShardOne"
+
+[[d1_databases]]
+binding = "ShardTwo" # i.e. available in your Worker on env.DB
+database_name = "testshardtwo"
+database_id = "cbd4ebe1-682d-4578-a7c0-2574879c869b"
+preview_database_id = "ShardTwo"
+
+[[d1_databases]]
+binding = "ShardThree" # i.e. available in your Worker on env.DB
+database_name = "testshardthree"
+database_id = "46495799-9a56-48ad-8d21-81a321bfebf2"
+preview_database_id = "ShardThree"
+
+[[d1_databases]]
+binding = "ShardFour" # i.e. available in your Worker on env.DB
+database_name = "testshardfour"
+database_id = "cda810a5-9d27-47af-9559-61f0c50e497f"
+preview_database_id = "ShardFour"
+
+[[d1_databases]]
+binding = "ShardFive" # i.e. available in your Worker on env.DB
+database_name = "testshardfive"
+database_id = "78f9ee10-0954-44d7-b5e5-51162696df28"
+preview_database_id = "ShardFive"
