@@ -5,5 +5,5 @@
 export let data
 </script>
 
-Row count is {data.count.length}
+Row count is {data.count.value}
 
